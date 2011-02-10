@@ -1,0 +1,35 @@
+fvTools is the replacement for ToolBoxes FarmGold.  fvTools allows you to move items in and out of buildings and harvest them.  It will also harvest the building if the building is ready to be harvest.
+<font color="RED"><b>Warning - Do Not enable duckpond_finished in Builder or you will be unable to place ducks in the building</b></font>
+
+
+[ChangeLog]
+3.0 Fix for Tray Order When Starting New Seeds
+2.9 Added Greenhouse Seed Manager
+- Added the Ability to Water 1 Less on Trees (Manual Completion)
+2.8 Changed the Number to Water from 10 to 8
+2.7 Fix for Missing and Duplicate Items on Farm Limits Tab
+2.6 Added New Farm Limits Tab
+2.5 Readded an Init
+2.4 Added Duck Pond
+- Added Move Only 1 Item Out
+2.3 Added What Each Seedling Is on Seedlings Tab (Thanks to CoCoCat and langer_hans)
+2.2 Leave 1 Item in Building to Maintain Ripe Time
+2.1 Fix for 0 Item Counts
+2.0 Added Builder to Build/Upgrade Buildings
+- Added the Ability to Select Types of Seedlings to Water
+- Added the Ability to Select Types of Seedlings to Delete
+1.85 Check All on Building Page - Thanks to Blue
+- Improved Restoring of Farm on Errors
+1.84 Hopefully Fixed Issues with Items Not being Put Back in Buildings
+1.83 Speed Improvements
+1.82 Cans Were Still Not Counted Properly - Now Fixed
+1.81 Fixed Issue With Not Counting the Number of Cans Properly
+1.8 Added Ability to Use Fertilize All if Farm Has More than 25% Unfertilized
+1.7 Water Tree Seedlings
+1.6 Added Cycle Counts in Log
+1.5 Added Ability to Reverse The Order the Ripe Item is Placed in Building
+1.4 Updated Styling Provided by Blue
+1.3 Shows all Buildings Even if They are Empty
+1.2 Improved Stability and Returning Items To Buildings
+1.1 Added Setting to Harvest Last Item
+1.0 Initial Final Release

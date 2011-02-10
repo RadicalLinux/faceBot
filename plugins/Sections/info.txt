@@ -1,0 +1,131 @@
+Sections
+2.3.0
+ralphm2004
+http://farmvillebot.net/forum/viewtopic.php?t=6258
+Allows user to define 'sections' on one's farm, where a specific type of seed,
+or a specific pattern of seeds is planted. In order to do this, control is taken
+before planting, and sections are planted before returning control to parser.php.
+
+Plots not in sections are untouched by this plugin and will follow the normal
+seed list, plots in sections will ignore seed list, and will not cause the seed
+count to count down. Superplots in sections will be seeded with section seed.
+
+2.3.0 (ralphm2004)
+  - new: buildings-section (mystery seedling)
+  - new: dont-move sections
+  - new: switch map on/off
+  - new: witch tooltip on/off
+
+2.2.0 (ralphm2004)
+  - plow, seed, plase plots with upgraded vehicles, you NEED fully upgraded vehicles for this to work
+  - set no seed to only place plot
+  - seeder-glitch
+  - some bugfixes
+
+2.1.3 (ralphm2004)
+  - new: change sections after farm upgrade
+  - bugfix: cuts of the corners at 26x26
+  - zoom-settings sticky
+
+2.1.2 (ralphm2004)
+  - speed improvments
+
+2.1.1 (ralphm2004)
+  - changed: reading of giftbox
+  - changed: caching units-data
+
+2.1.0 (ralphm2004)
+  - change: more information on edit-sections
+  - new: animal rotate
+  - new: animal allow/forbid walk
+
+2.0.8 (ralphm2004)
+  - select/unselect animals by class of item (for exemple all chicken with one click etc) in edit
+
+2.0.7 (ralphm2004)
+  - fixed eggs
+  - select/unselect all in edit
+  - deactivate buy-section after one run
+
+2.0.6 (ralphm2004)
+  - show content of sections
+
+2.0.5 (ralphm2004)
+  - show in tooltip number of section
+  - edit section with click on map
+  - bugfix relocation of decorations
+
+2.0.2 (ralphm2004)
+  - removed some debug-code
+
+2.0.1 (ralphm2004)
+  - removed some debug-code
+
+2.0.0 (ralphm2004)
+  - on/off switch
+  - place items from giftbox in sections
+  - plow empty land
+  - some bugfixes
+
+1.7.5 (ralphm2004)
+  - buy trees
+  - buy decoration
+
+1.7.2 (ralphm2004)
+  - z* protocol changes
+  - bugfix
+
+1.7.1 (ralphm2004)
+  - graphics changes
+
+1.7.0 (ralphm2004)
+  - buy animals
+
+1.6.2 (ralphm2004)
+  - bugfix
+
+1.6.1 (ralphm2004)
+  - z* protocol changes
+
+1.6.0 (larvitus)
+  - ui and map changes by larvitus
+
+1.5.1 (ralphm2004)
+  - z* protocol changes
+
+1.5.0 (ralphm2004)
+  - move with bot-speed
+
+1.4.2 (ralphm2004)
+  - z* protocol changes
+
+1.4.1 (ralphm2004)
+  - new: copy section
+  - bugfix: mystery eggs not detected
+  - changed: ui
+  - changed: map
+
+1.4.0 (ralphm2004)
+  - decorations
+  - multi-sections
+  - ui-changes
+
+1.3.2 (ralphm2004)
+  - bugfix seed
+
+1.3.1 (ralphm2004)
+  - bugfix placing all_trees and all_animals
+
+1.3 (ralphm2004)
+  - javascript for set top/bottom coordinates
+  - place trees
+  - section vor all trees and all animals
+  - with 2 same section the animals won't dance any more
+
+1.2 (BoerHarm)
+  http://farmvillebot.net/forum/viewtopic.php?t=2667
+  - place animals
+
+1.0 (BoerHarm)
+  -Initial Version
+

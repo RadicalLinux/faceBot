@@ -1,0 +1,29 @@
+fvFarmer handles all of your farming needs, from harvesting crops, animals, and buildings, to plowing and planting.  fvFarmer replaces 99% of fBSettings and totally replaces seeder.  <font color="red">YOU MUST DISABLE OR REMOVE SEEDER</font>
+
+Thanks to Blue for the CSS styling and javascript.
+Also Thanks to all of you that helped in the testing phase to get the bugs worked out.
+
+[ChangeLog]
+2.5 - Optimizations from New Parser Incorporated
+2.4 - Fix for Bushels 
+2.3 - Fix for Planting Hybrid Crops
+2.2 - Updated for New Seed Package Storage Location
+2.1 - Fix for Ducklings Not Being Harvested
+2.0 - Updates for New Hybrids
+1.9 - Fix for FarmvilleChinese Coops
+1.8 - Fix for Animals Not Transforming
+1.7 - Fix for Bot 2.0.0.1
+1.6 - Fix for Co-Op Selection Being Ignored
+1.5 - Fixed and Issue with Harvest Not Choosing Correcting
+1.4 - Better Bushel Detection
+- Added Planted Seed Grid
+- Added Asc/Desc Plant Order
+- Seeds now Sorted by Name Properly
+1.3 - Another Fix For Mastery of Crops that Use Seed Packages
+1.2 - Fix for Crops that Use Seed Packages
+1.1 - Added a Checkbox to Disable/Enable Auto Planting
+- Fixed Issue with Buildings Not Showing Up on Buildings Tab (Not Harvesting Them)
+- Modified Algorithm for Planting Seeds for Mastery
+- Now Checks Mastery Stars Instead of Counts For Crops Already Mastered
+- Fixed Issue with Weird Bushel Usage
+1.0 - Initial Release

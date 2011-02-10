@@ -1,0 +1,16 @@
+GiftBox allows you to manage your giftbox and consumable box in farmville.
+*GiftBox was written by Christiaan*
+<font color="red"><b>Requires Parser Version 01122011 or Greater</b></font>
+
+[ChangeLog]
+3.5.2 Removed Extra Update per Cycle
+3.5.1 Fix for Missing Locale XML
+3.5.0 Fix for Bot 2.0.0.1
+3.4.9 Removed Giftbox Doing It's Own Init
+3.4.8 Removed Ad that was causing Issues
+3.4.7 Added CandyCane Egg
+3.4.6 Added Whimsy Gift
+3.4.5 Fix for Super Chicken Coop Showing 999
+3.4.4 Fixed Import of Actions (Old Exports May Not Work, Create A New One)
+- Fixed Map Overlays
+3.4.3 Added Checking for Rewards

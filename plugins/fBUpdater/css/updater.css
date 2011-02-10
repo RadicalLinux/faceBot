@@ -1,0 +1,21 @@
+/*--------------------------------------------------
+  faceBot look and feel css START
+  --------------------------------------------------*/
+.mainTable {
+	margin-top: 15px;
+	background-color: #FFFFFF;
+	border-collapse:collapse;
+	border:1px solid #878787;
+	empty-cells:show;
+	font-size: 10pt;
+}
+.mainTable td {padding: 3px 15px;border:1px solid #878787;}
+.mainTable tr:hover { background-color:#FF7D1A; color: #FFFFFF;}
+
+#parsernew:hover {color: #000000;}
+#changeLog:hover {color: #000000;}
+/*--------------------------------------------------
+  faceBot look and feel css END
+  --------------------------------------------------*/
+ 
+}

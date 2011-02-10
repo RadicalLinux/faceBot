@@ -1,0 +1,13 @@
+Sections let's you see the layout of your farm graphically and also allows you to move stuff around.
+
+*Sections was written by RalphM2004*
+
+NOTE: Sections has troubles on some machines loading the plugin tab in the bot.  If you experience issues try loading it in your browser.
+
+[ChangeLog]
+2.4.1 Fix For Not Planting
+2.4.0 Ported Release 2.3.0 From fvBot - Thanks RalphM2004
+- New Style to Match faceBot by C|haotic|lama
+2.3.3 Fix for Not Planting with fvFarmer
+2.3.2 Fixes for 28x28 Farm and fvFarmer Planting (Fixes by C|haotic|Lama)
+2.3.1 Fixed Issue with Sections Dying on Rotating Animals

@@ -1,0 +1,24 @@
+fvLinks is the replacement for PX_Links.  fvLinks shows you all the links that you normally could have posted from within the game.  You can copy and paste these links to your friends.
+<b><font color="red">Only Install If You Are Playing Farmville</font></b>
+<b>****If you are playing FarmvilleChinese disable this plugin in fBSettings****
+****If you are playing regular Farmville disable fvLinks plugin in fBSettings****</b>
+****REQUIRES PARSER 12012010 OR GREATER****
+
+[ChangeLog]
+2.5 Added a 3 Second Pause Between Clicks (Speed Bumps)
+- Stops Checking a Category if Reached Z* Limit
+2.4 Fix for Unknown Gifts
+2.3 Updated Limits Checking for Giftbox
+2.2 New All Account Checking Options - Provided by Blue
+2.1 Check All & Uncheck All Links - Provided by Blue
+2.0 Grab Links from Alt Accounts Running in Bot
+- Export Links to Notepad
+- Links Expire and are Removed After 24 Hours
+1.8 Speed Optimizations
+1.7 Added Grouping by Category
+1.6 Fix for Duplicate Links
+1.5 Adjusted for New Parser Changes
+1.4 Added More Links
+1.3 Added Clear Links Button
+1.2 Added More Link Types to be Displayed
+1.1 Added Fixes for New Links Due to Z* Changes

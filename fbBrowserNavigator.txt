@@ -1,0 +1,8 @@
+fbBrowserNavigator displays the plugin tabs in a new way that you can utilize from your browser.
+
+*fbBrowserNavigator was written by Blue*
+
+[Changelog]
+1.2   23 November - style bugs
+1.1   2 November - minor bugs
+1.0   30 October - initial test release

@@ -1,0 +1,5 @@
+fBChat connects you to the faceBot IRC live support chatroom
+
+*fBChat was written by MasterD and Nena*
+
+[Changelog]

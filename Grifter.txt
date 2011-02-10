@@ -1,0 +1,6 @@
+Grifter is a tool to buy and sell items repeatedly to get experience.  It is written by StrmCkr
+
+[ChangeLog]
+1.04 Turbo Grifter
+1.03-1 Fixed Fatal Error Issue Causing Bot to Restart
+1.03 Initial faceBot Release

@@ -1,0 +1,11 @@
+FarmStats shows you all sorts of information about your farm, including masteries and achievements.  It also shows what's in your giftbox, in storage, and what is on your farm.
+
+[ChangeLog]
+1.5.3 Moved Seed Packages to Own Section
+1.5.2 Fix for Names with a ' in Them
+1.5.1 Fix for Bot 2.0.0.1
+1.5.0 Fix for Parser Version Issue
+1.4.9 Fix For 0 Count Items
+1.4.8 Code Cleanup & Optimizations
+1.4.7 Added New Styling By Blue
+1.4.6 Fixed Bug with Showing of Haunted House When Placed in Storage

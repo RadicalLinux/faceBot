@@ -1,0 +1,11 @@
+fBUpdater is the all in one plugin to help you keep your bot files up to date.  It can update, repair, and even install new plugin.  It also shows you information about the plugins.
+
+[ChangeLog]
+1.47 Displays Proper Tabs
+1.46 Fix for Installing Plugins
+1.45 Fix for Bot Not in Standard Folder
+1.44 Now Supports Each Bot
+1.43 Fix for Bot 2.0.0.1
+1.42 Fix for New Parser File and Folder Layouts
+1.41 Added CSS Changes by Blue
+1.2 Added What's New

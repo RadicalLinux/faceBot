@@ -1,0 +1,44 @@
+html, body {overflow:hidden; border:0;font-family:verdana;font-size: 10pt;}
+.mainBar {
+background-image:url("/plugins/fbBrowserNavigator/img/mainBar.jpg");
+height:30px;
+margin-bottom:2px;
+width:100%;
+}
+.mainBarTable {
+font-size: 11pt;
+color:#FFFFFF;
+font-weight:bold;
+height:30px;
+width:100%;
+}
+.plugTab {
+font-family:verdana;
+font-size: 10pt;
+font-weight:bold;
+background:none repeat scroll 0 0 #073489;
+color:#FFFFFF;
+display:inline;
+padding:3px;
+text-decoration:none;
+border: 1px solid #073489;
+border-collapse:collapse;
+}
+.plugTab:hover {
+background:none repeat scroll 0 0 #FFFFFF;
+color:#073489;
+border: 1px solid #073489;
+}
+
+.accMenu {
+font-family:verdana;
+font-size: 10pt;
+font-weight:bold;
+background:none repeat scroll 0 0 #073489;
+color:#FFFFFF;
+display:inline;
+padding:3px;
+text-decoration:none;
+border: 1px solid #073489;
+border-collapse:collapse;
+}

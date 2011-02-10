@@ -1,0 +1,51 @@
+faceBot continues to grow and change.  With these changes come glitches.  Please be patient while we work them out.
+
+<font color="PURPLE"><strong>----IF YOU HAVE ISSUES WITH THE BOT PLEASE DO NOT UNINSTALL, SEEK SUPPORT FIRST----</strong></font>
+
+<font color="red"><strong>******ALL NEW PLUGIN RELEASES REQUIRE THAT YOU HAVE PARSER VERSION 12232010 OR LATER******
+<U>YOU MUST DELETE DATA.SQLITE WHEN INSTALLING VERSION 02052011 OF THE PARSER - STOP YOUR BOT, UPDATE PARSER/FBSETTINGS, DELETE DATA.SQLITE IN BOT FOLDER</u></strong></font>
+
+<u><font color="BLUE"><strong>Update fBUpdater before Updating the Parser</strong></font></u>
+
+<font color="PURPLE">
+****NEW UPDATE - PHP Version 5.3.4 (Included in 2.0 Setup & 1.0 FV-CH Setup) - <a href="http://www.4shared.com/file/obntcZ1P/fB_php_upgrade534.html" target="_blank">Download</a> (Right Click and Copy Link)
+Mirror Link: <a href="http://www.megaupload.com/?d=WCG5XT2Y">Download</a> (Right Click and Copy Link)
+1. Extract this file to a temporary folder.
+2. Close the bot entirely
+3. Copy all the files and folders you extracted in the temporary folder to the faceBot_Farmville folder, overwriting the existing folders
+4. Start the Bot</font>
+
+<font color="red"><b>Bot Version 2.0.0.0 for Regular Farmville Bot - <a href="http://www.4shared.com/file/RCXt50yh/faceBot20Upgrade.html" target="_blank">Download</a></b></font> (Right Click and Copy Link)
+Mirror Link: <a href="http://www.mediafire.com/?r9z5dila2g26udb" target="_blank">Download</a> (Right Click and Copy Link)
+<b>****Extract to a temporary folder, then copy everything in that folder to your bot folder (faceBot_Farmville)****</b>
+
+<font color="red"><b>Bot Version 2.0.0.7 for Regular Farmville Bot (Requires that you already have 2.0.0.0 Upgrade) - <a href="http://www.4shared.com/file/r_5-skvD/faceBot-2007-EXE_Only.html" target="_blank">Download</a></b></font> (Right Click and Copy Link)
+Mirror Link: <a href="http://www.mediafire.com/?8zc0844lo3ybfy3" target="_blank">Download</a> (Right Click and Copy Link)
+
+<font color="red"><b>faceBot - FarmvilleChinese Installer 1.0.0.2  - <a href="http://www.4shared.com/file/fpP4l8L7/faceBot_FarmvilleCHSetup1002.html" target="_blank">Download</a></b></font> (Right Click and Copy Link)
+<font color="red"><b>Bot Version 1.0.0.2 for Farmville Chinese Bot (Requires that you already have FV-Chinese Installed) - <a href="http://www.4shared.com/file/IaSlUSAe/faceBot-FVCH-1002-EXE_Only.html" target="_blank">Download</a></b></font> (Right Click and Copy Link)
+Mirror Link: <a href="http://www.mediafire.com/?q03mnm30wxf34xx" target="_blank">Download</a> (Right Click and Copy Link)
+
+[ChangeLog]
+<i>--1/31/2011--</i>
+2.0.0.7 - Another Fix for Farmville Game Loading
+2.0.0.6 - Fix for Asking for Machine Name
+- Fix for Farmville Game Loading
+<i>--1/29/2011--</i>
+2.0.0.5 - Improved Login and Game Grab Speed
+<i>--1/25/2011--</i>
+2.0.0.4 - If Webserver Fails bot does not shutdown
+- Upgraded Gecko Wrapper
+<i>--1/21/2011--</i>
+2.0.0.3 - Removed Chinese Farmville to Separate Bot
+- Sped Up Loading of Game Information
+- Fixed Timeouts on Game Load
+
+<font color="red"><b>WARNING!!!!!  It Is Important That you Always Read the What's New, as Sometimes there are Special Instructions</b></font>
+
+
+We are always looking for new PHP coders that would like to take over maintaining older plugins.  If you are interested, let me know.
+
+This space in fBUpdater will keep you posted on new items, bugs, etc.  
+
+Rad

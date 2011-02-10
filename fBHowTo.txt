@@ -1,0 +1,5 @@
+fBHowTo displays the help site in a tab on your bot.  The help site includes tutorials etc. to help with running the bot and plugins.
+
+*fBHowTo was written by Nena*
+
+[Changelog]

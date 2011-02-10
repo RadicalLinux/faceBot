@@ -1,0 +1,8 @@
+fbBrowserNavigator
+1.2
+****** blue ******
+Use this to navigate facebot in browser
+
+1.2   23 November - style bugs
+1.1   2 November - minor bugs
+1.0   30 October - initial test release

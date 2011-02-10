@@ -1,0 +1,261 @@
+
+[b]Q:[/b]    I see an Error.
+[b]A:[/b]    Upgrade to last version of the BOT, Upgrade to last version of the GiftBox.
+Check that the BOT is running with out the GiftBox enabled. Can there be harvest etc? If yes, than activate the GiftBox. Still errors? Continue below.
+
+[b]Q:[/b]     I see this, what is wrong.
+xx:xx:xx Giftbox loading... 
+xx:xx:xx Updating Giftbox 
+xx:xx:xx UP GB Error: BAD AMF Response
+[b]A:[/b]	If this does not happen to offten, leave it. 
+or you have many items on your farm .
+The GiftBox Plug-in is not able to read you farm. Fix your farm.
+
+[b]Q:[/b]    The Plug-in show “Add to selling” but the item is already in the selling list.
+[b]A:[/b]    Remove all .sqlite files from the plug-in folder (\Plugin\GiftBox\*.sqlite) and configure the settings again. There was something gone wrong with the upgrade.
+
+[b]Q:[/b]    I see error xx:xx:xx Error: 500/ISE
+[b]A:[/b]    This is not related to the Plug-in. Follow the clues on the forum to fix this error.
+
+[b]Q:[/b]    When "enable images on other tabs" is ticked the GiftBox settings disappears
+[b]A:[/b]    Wait, loading all the images will take some time. Just wait.
+If you can not access the GUI anymore, Remove all .sqlite files from the plug-in folder (\Plugin\GiftBox\*.sqlite) and configure the settings again. 
+
+[b]Q:[/b]    Will the fuel be sold or used?
+[b]A:[/b]    That is what you configure in the “Consume” tab.
+
+[b]Q:[/b]    I get this:**** ERROR: GiftBox manager Requires px_parser version v### or higher ****, what do I need to do?
+[b]A:[/b]    Upgrade the parser.php file (or the newest bot most of the time include this)
+
+[b]Q:[/b]    I have set “The amount of collection to leave in the game” to 1. But it leaves more.
+[b]A:[/b]    Yes, it will leave for every collection 1 in the game.
+
+[b]Q:[/b]    Images do not show.
+[b]A:[/b]    The Images need to be downloaded from the farmvile server. This is no longer done by the Giftbox, but by the parser. complain there if the images are not downloaded
+
+[b]Q:[/b]    Can the collections trade in be published on facebook?
+[b]A:[/b]    Yes, use the PX_links for that.
+
+[b]Q:[/b]    What can I do with: "amount of columns in the tabs to be shown?"
+[b]A:[/b]    This will set the amount of column that is shown in the other tabs (only visual effect). Those of you that work on a big screen = 3. Perhaps on a width screen can be set 4 or higher.
+
+[b]Q:[/b]   I see error: “Warning: Variable passed to each() is not an array”. What can I do.
+[b]A:[/b]    Likely the downloading of the Giftbox content went wrong. Restart the bot. If this is persistent and you do not have other error (as mentioned in these Q&A) post it to the forum.
+
+[b]Q:[/b]    I have this error, what can I do?
+xx:xx:xx 1 consume_arborists Arborists ready for use 
+xx:xx:xx Use consume_arborists result: 28 onUse failed for this consumable [0 to go] 
+xx:xx:xx result: BAD AMF REPLY (OOS?) 
+[b]A:[/b]    You can not USE or consume the Arborist; keep it or sell it.
+
+[b]Q:[/b]    I can not see the GiftBox tab in the BOT.
+[b]A:[/b]    Read the installation instructions.
+
+[b]Q:[/b]    I still do not see the GiftBox tab in the BOT.
+[b]A:[/b]    Make sure that the path is: C:\farmvillebot\plugins\GiftBox\main.php or C:\farmvillebot2.1\plugins\GiftBox\main.php 
+
+[b]Q:[/b]    I still have an Error, shall I send you a PM?
+[b]A:[/b]    NO.
+
+[b]Q:[/b]    I like the plugin, can I make a donation?
+[b]A:[/b]    Yes, see the first post in this tread
+
+[b]Q:[/b]    I still have an Error, what can I do?
+[b]A:[/b]    You post to the forum:
+The version you are using.
+What is going wrong, what did you expect to happen.
+Did it work before?
+Enable debugging in the plug-in and post the log2.txt
+Post the content of you settings.txt
+
+[b]Q:[/b]    
+[b]A:[/b]
+
+<hr>
+<h2 id="help">GiftBox Manager HELP.</h2> 
+Help on the use of the giftbox manager.
+
+<h2 id="settings">Settings.</h2> 
+
+<h2 id="RunPlugin">GiftBox plugin ON/OFF.</h2> 
+Here you can disable the plugin.
+
+<h2 id="DoFuel">Enable Fuel. ON/OFF.</h2> 
+This will USE the fuel in the GiftBox. (do not use this when you like to Sell the fuel)
+
+<h2 id="DoSpecials">Enable Specials.</h2> 
+Enable Specials. Like Pot of Gold etc.
+Goto "buildings with items" to specify the amounts.
+
+<h2 id="DoSelling">Enable Selling.</h2> 
+This will enable the selling directly from the giftbox. The items sellected in the tabs will be sold.
+
+<h2 id="DoPlace">Enable place on farm.</h2> 
+Enable place of item(s) in you farm.
+This will enable the place directly from the giftbox. The items sellected in the tabs will be placed.
+
+<h2 id="DoFeetPet">Feed Pets.</h2> 
+Feed Pets(s) in you farm.
+Make sure you have Kibble or Tread in your giftbox.
+This will feed your Pet as long they are puppies
+make sure you have Kibble in your giftbox
+Goto Consume tab. Set Kibble to do nothing. or SELL but keep xx in giftbox.
+
+
+<h2 id="DoVehicle">Add vehicle parts.</h2> 
+Add vehicle parts to vehicle in garage.
+This will add vehicle parts to the vehicle in the garage.
+
+<h2 id="DoMystery">Open Mystery Gift & Eggs.</h2> 
+This will open all Mystery Gifts and Eggs.
+You will have to specify which need to be opened. Goto to the Open Gifts tab (under settings)
+If there is a new gift that can be opened and it is not in the list. 
+You can edit the file "opengift.txt" in the GiftBox folder.
+
+<h2 id="DoStorage">GiftBox to store items</h2> 
+Allow GiftBox to store items.
+Store items in the <b>Cellar</b>.
+Note that you need a cellar to do this.
+
+<h2 id="DoStorage1">Store 1 of each.</h2> 
+Store 1 of each decoration and building into the cellar.
+This will store 1 of each building or decoration into the cellar.
+
+<h2 id="DoColl">Handle collectables.</h2> 
+Get collectables from giftbox and add them in collection.
+This will allow the plug-in to bring the collectable from the giftbox to the collection.
+
+<h2 id="DoCollSell">Sell collectable (when 10 in collection).</h2> 
+When there are 10 in collection, sell the rest.
+When there are already 10 collectables in the collection, <br>the collectable can no longer be added to the collection. <br>The only way to empty the giftbox is to sell that collectable.
+
+
+<h2 id="DoCollTrade">Enable trade in of collections.</h2> 
+Trade in completed collections
+When collection is complete; the collection will be trade in. 
+We will leave some collection in the game to be handled manually.  
+<i>Note: we will leave xx for every collection</i>
+
+<h2 id="DoCollKeep">Leave this amount of collections.</h2> 
+The amount of collections to leave. [between 1 - 10].
+The amount of collection to leave in the game. 
+<i>publish the rest manually.</i> 
+Note: <i>we will leave xx for every collection</i>.
+
+
+<h2 id="DoConstr">Enable construction of buildings.</h2> 
+Building parts will be added to the building(s)<br> This need aditional settings in the "Construction tab" .
+Note that it will take 1 or 2 cycle to build the list of building parts 
+(this willbe done automaticly
+ The parts will be added 1 by 1, <br>so if there are 5 building parts of the same type, it will take 5 cycles <br><br>Sometimes the building is not seen by the plug-in.<br> in thet case, place 1 item manualy into the building. <br>Next run, the plug-in will pickup the building.
+
+<h2 id="DoPlaceBuild">Enable place of items in buildings.</h2> 
+Place items in buildings. Like cow in dairy farm.<br> This need aditional settings in the "Buildings with items" tab.
+Use the tab to sellect what to add where. <br> The building that can contain items are discoverd automaticly. <br><i>This overrules the selling and place</i><br><br>Sometimes the building is not seen by the plug-in.<br> in thet case, place 1 item manualy into the building. <br>Next run, the plug-in will pickup the building.
+
+<h2 id="ShowImage">Enable the images on the tab giftbox.</h2> 
+
+
+<h2 id="ShowImageAll">Enable the images on the other tabs.</h2> 
+
+<h2 id="DoDebug">Enable Debuging.</h2> 
+will create more detailed output
+
+
+<h2 id="DoResetXML">Reset XML.</h2> 
+Enable this to load all the XML from the server again. 
+This will happen durring the database routing (which run every 10 min.)
+
+<hr>
+<h2 id="ChangeLog">Change Log.</h2> 
+
+GiftBox 3.3.3 
+- fix for those who have more that 10 items in a collection. 
+- fix for socialplumbingmysterygift to be added in the cellar.
+- fix for images with 0 byte
+
+GiftBox 3.3
+- Added FAQ & help file
+- Added storeing items from the GiftBox. Allowing to store 1 of each item into the cellar.
+- Added opening of mystery Gifts and Eggs now can be configured via the menu.
+- Added link to jump directly to the correct tab from the settings page.
+- Update. Giftbox does not longer download the xml files, but use the local xml files.
+
+- Removed downloading of images. this is now done via the parser.
+
+Version 3.2: NEW: Downloading of new images is move to the new parser.php, so i removed it from the Giftbox.
+Version 3.2: NEW: Schovels can be added to the cellar.
+Version 3.2: NEW: Mystery gifts & eggs can directly be open fron the giftbox.
+
+Version 3.1 Final: NEW: Added the importing of default_actions.txt. This file in the actions folder, will be imported on every account the giftbox is started. The Giftbox automaticly detaect if the file is updated, and it will be imported again.
+Version 3.1 Final: NEW: multi sell & consume. it uses the BOT speed (currently max is 5, but it will follow the bot speed up to 20)
+Version 3.1 Final: NEW: Adding vehicle parts to vehicles in the garage.
+Version 3.1 Final: Known isseu: images are not downloaded any more. Working on this.
+
+Version 3.0 Final: Improved logging & shows on log 1 again.
+Version 3.0 Final: Feeding dog / puppy corrected (to be tested).
+Version 3.0 Final: Added today & yesteday in statistics
+Version 3.0 Final: Added in DEBUG tab an overview of the database files (incl. check if table exists)
+Version 3.0 Final: Added in DEBUG tab a button to re-create missing tables.
+
+Version 3.010 fixes: Will handle multiple parts into construction in 1 cycle (all)
+Version 3.010 fixes: Will fill building with animals in 1 cycle (max in giftbox)
+Version 3.010 fixes: Tab building with items, now shows building as gray if full.
+Version 3.010 fixes: Shows the correct amount in a building.
+
+Version 3.09 fixes: Total new way to detect building parts for constructions
+Version 3.09 fixes: Can now disable building from adding building parts to them
+Version 3.09 fixes: Add building parts to all building that need them
+Version 3.09 fixes: Excluded holidaytree from special detection.
+Version 3.09 fixes: Detecting the building capacity correctly (can add to building again)
+Version 3.09 fixes: able to stell construction parts again.
+
+
+Version 3.08 fixes: construction selection. & checking again before putting it into building.
+Version 3.08 fixes: import function
+Version 3.08 fixes: other fixes.
+
+Version 3.07 fixes: tab trees: All tree placeble & only showing trees
+Version 3.07 fixes: tab animals removed farmhands etc.
+Version 3.07 fixes: Reset XML is now working. 
+Version 3.07 fixes: Images improvments
+Version 3.07 fixes: Boot time improvments
+Version 3.07 feature: Specials automaticly detected and set to 999
+Version 3.07 fixes: Max in building detected and saved
+Version 3.07 feature: Info mesages on screen, like: actions saved.
+Version 3.07 feature: Actions can be exported to file.
+Version 3.07 feature: Actions can be imported from file.
+Version 3.07 fixes: version information corrected.
+
+Version 3.06 fixes: Loading of images
+Version 3.06 fixes: Give error when DB is not created (just let it run, it will create it in next cycle)
+Version 3.06 feature: Provide extra screen to see content of the actions.txt before loading it.
+Version 3.06 feature: New layout
+Version 3.06 fixes: Save image data in text file, not database. Speed
+Version 3.06 fixes: loading of screens < 1 sec.
+Version 3.06 fixes: Image setting now working (able to disable)
+Version 3.06 fixes: Specials are automaticly detected again (first run of DB cleanup = 10 min.)
+Version 3.06 fixes: place can now be up to 106 (not 99)
+
+Version 3.05 fixes: Loading of DB changed to prevent freeses of screens.
+Version 3.05 feature: loading of "general_settings.txt" on first run (check inside)
+Version 3.05 feature: in general setting you can load the "action.txt" (for now you can manualy change the content of this file)
+Version 3.05 feature: Specials are detected automaticly again.
+
+Version 3.04 fixes: Map image (show items) & show the latest settings
+Version 3.04 fixes: BG -> GB text change.
+Version 3.04 fixes: Indexes on DB --> Speedup from 40 back to 2 Sec.
+Version 3.04 fixes: Constructions stay selling
+
+Version 3.03 fixes: Tree mapping & consume & DB stuff & DB error handling
+Version 3.03 fixes: Sell All & Place all buttons.
+Version 3.03 fixes: Message pole correction
+
+Version 3.02 fixes
+Version 3.01 Total new engine.
+
+
+
+<h2 id="">.</h2> 
+
+

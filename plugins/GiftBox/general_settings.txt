@@ -1,0 +1,38 @@
+# This file contains the settings that will be loaded 
+# when there are no settings known for the user.
+# in most cases that will be the first time the user is using the GiftBox.
+#
+# 1 = On
+# 0 = Off
+##################################################################################
+RunPlugin:1:Run the plugin
+DoFuel:0:Discover fuel and consume
+DoSpecials:0:Put specials into the buildings
+DoSelling:0:enable selling
+DoPlace:0:enable Placeing of items on the farm
+DoVehicle:0:enable adding vehicle parts new in 3.1
+DoFeetPet:0:enable Pet feeding
+DoMystery:0:enable opening of myster gifts & eggs
+DoColl:0:put items into collections
+DoCollSell:0:Enable selling when there are 10 items in the collection
+DoCollTrade:0:enable the trade in of collection when complete
+DoCollKeep:9:The amount of collection to NOT trade in.
+DoConstr:0:discover constructions & use them
+DoPlaceBuild:0:Enable place item into buildings
+ShowImage:1:show image in Giftbox
+ShowImageAll:1:show image in all tabs
+DoDebug:0:Debug settings
+DoResetXML:0:Leave this 0
+AnimalX1:0:default settings
+AnimalY1:0:default settings
+AnimalX2:65:default settings
+AnimalY2:65:default settings
+TreeX1:0:default settings
+TreeY1:0:default settings
+TreeX2:65:default settings
+TreeY2:65:default settings
+DecorationX1:0:default settings
+DecorationY1:0:default settings
+DecorationX2:65:default settings
+DecorationY2:65:default settings
+######################################################################### end

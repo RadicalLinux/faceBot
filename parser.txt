@@ -1,0 +1,53 @@
+The parser and fBSettings do all the dirty work for the bot.  They are required and its always best to have the latest versions.
+
+<font color="red"><strong>YOU MUST DELETE DATA.SQLITE IN THE BOT FOLDER WHEN UPGRADING TO VERSION 02052011 - STOP THE BOT, UPGRADE PARSER/FBSETTINGS, DELETE DATA.SQLITE</strong></font>
+
+<font color="blue"><strong>Update fBUpdater Before Updating the Parser</strong></font>
+<font color="blue"><strong>Update 01282011 Requires you to Close the Bot and Reopen</strong></font>
+
+[Changelog]
+02102011 Fix for Z* Changing Fields Again
+02092011 Added Additional Functions and Information for Plugins
+- Code Cleanup
+02082011-1 Fix for New Bushel Location
+02082011 Fixed Location of Specials
+02062011 Moved Seed Packages to Own Storage
+02050211-1 Updated To Support Farmville Chinese Bot
+02052011 Fix for Missing Realnames (Descriptions File)
+01282011 Fix for Accounts Not Switching
+01272011 Fix For New XML URL Locations
+01192011 Fix For Missing Names in FV-Chinese
+01182011 Removed Hardcoded asset url
+01162011 Removed Server Settings from fBSettings (Not Used)
+01122011-1 Fix for fvNeighbors
+01122011 Fix for Giftbox
+01022011 Removed a Non-Needed Debug File
+12312010 Updated PHPAMF, Made Changes to Requests
+12232010 Updated For Builder & fvFarmer
+12182010 Removed farming stuff from fBSettings
+- Added the ability to remove accounts from Drop Downs
+- Added functions for fvFarmer
+12102010-1 Fix for Error Notices in Plugins
+12102010 Fix for Quest.xml File Location Change
+12042010 Harvesting of Winter Workshop
+12012010 Code Cleanup and Preparation for fvFarmer
+- Moved Rewards to Separate Database
+11282010 Fixes for 500/Internal Server Errors
+- Added AMFPHP to installer
+11242010-2 Better Fix for Farm Server Changing
+- Fix for Missing Craft.XML and StorageConfig.XML files
+11242010-1 Fix for Farm Server Changing
+11242010 Added Fixes for XML Parsing in Preparation for fvFarmer
+11192010-2 Fix For Descriptions XML Not Being UnGziped after download on Try #2
+11192010-1 Fix For Z* New XML File Hashes
+11192010 Added Capturing Of Neighbor Full Names And Other Information
+11182010 Fix for Missing Images - New Images will Download on Next Update
+11152010-1 Added Additional Gift Links for fvNeighbors
+11152010 Updated Styling Provided By Blue
+11142010 Cleaned Up More Code
+- Split Databases into data.sqlite and datastore.sqlite
+11132010 Added More Reward Links
+11122010 Added New Reward Link Checks for fvLinks
+- Add Harvesting of Turkey Roost
+11112010 Added a New Check4Reward to find out if we received a Reward Link.
+11062010-5 Added the Ability to Harvest Orchards

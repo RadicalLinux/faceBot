@@ -1,0 +1,35 @@
+##################################################################
+#
+#  This file can be used to define default actions for items
+#
+#  Note that it is not posible to make default actions like:
+#     XX put in building. Because we do not know which building
+##################################################################
+# Example:
+#
+#  Sc:Y:0:0:0:0:0:0:0:0:0:0:0:place all "mystery egg black" on the farm:
+#  2H:0:0:1:Y:0:0:0:0:0:0:0:0:Consume all "Fuel5" but leave 1 in GiftBox.:
+#
+#  Format of the lines:
+#Code
+#| Place on farm? Y/0
+#| | Sell? Y/0
+#| | | Keep
+#| | | | Consume? Y/0
+#| | | | | reserved
+#| | | | | | reserved
+#| | | | | | | reserved
+#| | | | | | | | reserved
+#| | | | | | | | | reserved
+#| | | | | | | | | | reserved
+#| | | | | | | | | | | reserved
+#0 1 2 3 4 5 6 7 8 9 0 | reserved
+#| | | | | | | | | | | | |                                
+Sa:Y:0:0:0:0:0:0:0:0:0:0:0:place all "Mystery xEgg" on the farm:
+Sb:Y:0:0:0:0:0:0:0:0:0:0:0:place all "Mystery xEgg" on the farm:
+Sc:Y:0:0:0:0:0:0:0:0:0:0:0:place all "Mystery Black Egg" on the farm:
+Gh:Y:0:0:0:0:0:0:0:0:0:0:0:place all "Mystery Rhode Island Red Egg" on the farm:
+Da:Y:0:0:0:0:0:0:0:0:0:0:0:place all "Fan Calf" on the farm:
+JN:Y:0:0:0:0:0:0:0:0:0:0:0:place all "Groovy Calf " on the farm:
+A2:0:0:5:Y:0:0:0:0:0:0:0:0:Consume all "20 Free XP" :
+A8:0:0:5:Y:0:0:0:0:0:0:0:0:Consume all "1/5 Fuel Refill" :

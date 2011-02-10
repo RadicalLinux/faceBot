@@ -1,0 +1,5 @@
+fvXML Shows you all the items Z* currently has in their XML files.  These may not be released yet.  It also provides you with the Classnames, Codes, and other valuable information.
+
+[ChangeLog]
+1.5 Fix for Missing Locale File
+1.4 New Page Styling by Blue

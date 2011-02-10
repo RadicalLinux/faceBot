@@ -1,0 +1,32 @@
+/*--------------------------------------------------
+  fvLinks
+  --------------------------------------------------*/
+ 
+.mainTable tr:hover { background-color:#FFFFFF; color: #000000;}
+
+.notGrabbed {
+	font-size: 11px;
+	padding: 1px;
+}
+
+.rewardName{
+	font-size: 11px;
+	color:#1E3F82;
+	font-weight:normal;
+}
+.rewardGrabNo{
+	font-size: 11px;
+	color:red;
+	font-weight:normal;
+}
+
+.rewardGrabYes{
+	font-size: 11px;
+	color:green;
+	font-weight:normal;
+}
+
+/*--------------------------------------------------
+  
+  --------------------------------------------------*/
+ 

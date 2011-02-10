@@ -1,0 +1,101 @@
+/*--------------------------------------------------
+  fvFarmer CSS START
+  --------------------------------------------------*/
+table.crops {
+	border-width: thin;
+	border-spacing: 0px;
+	border-style: dotted;
+	border-color: gray;
+	border-collapse: collapse;
+	font-size: 10px;
+}
+
+table.crops td.crops {
+	border-width: 1px;
+	padding: 2px;
+	border-style: outset;
+	border-color: gray;
+	border-collapse: collapse;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+
+.seedsTable {
+	margin-top: 15px;
+	background-color: #FFFFFF;
+	border-collapse:collapse;
+	border:1px solid #878787;
+	empty-cells:hide;
+	font-size: 10pt;
+	border-spacing:10px;
+}
+
+.seedsTable td{
+	border-collapse:collapse;
+	border-bottom:1px solid #878787;
+}
+
+
+.doOverride{
+	display: inline;
+	position:absolute;
+	margin-left:70px;
+	margin-top:0px;
+	background-color:#FF7002 ; 
+	color: #000000;
+	width:200px;
+	height:120px;
+	z-index:100;
+	border: 2px solid #BF2B09;
+	display:none;
+	padding: 5px;
+}
+
+.doDefault{
+	display: inline;
+	position:absolute;
+	margin-left:70px;
+	margin-top:20px;
+	background-color:#0292FF ; 
+	color: #000000;
+	width:200px;
+	height:120px;
+	z-index:100;
+	border: 2px solid #1E3F82;
+	display:none;
+	padding: 3px;
+}
+
+.divPopup{
+	margin-top:5px;
+	text-align: left:
+}
+
+.rowTitle{
+	background-color: #FF7D1A;
+	color:#1E3F82 ;
+}
+
+.mainBlueTitle{
+	background-color:#1E3F82; 
+	color: #FFFFFF; 
+	padding:3px;"
+}
+.cellContent{
+	background-color: #B7DFFD;
+	color:#000000 ;
+}
+
+.selectTable{font-size: small;
+            voice-family: "\"}\"";
+            voice-family: inherit;
+            font-size: 8pt;}
+
+.selectTable td{
+	padding-right:8px;
+	font-size: small;
+	padding-bottom:5px;
+}
+/*--------------------------------------------------
+  fvFarmer CSS END
+  --------------------------------------------------*/
+ 

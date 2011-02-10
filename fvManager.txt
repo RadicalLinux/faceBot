@@ -1,0 +1,25 @@
+fvManager allows you to buy, sell, and store items on or for your farm.  It also handles crafting (including buying bushels and goods)
+
+<font color="red">Make sure you redo your craft settings after updating - Things have changed</font>
+<font color="red"><b>Not for Chinese Bot!!!!</b></font>
+
+[ChangeLog]
+1.20 - Updates for New Parser Optimizations
+1.19 - Fix for New Bushel Location
+1.18 - Fix for Missing Locale File
+- Moved Starting Recipes Section Before Selling Bushels
+1.17 - Fix for Crafts Not Starting
+1.16 - Updated the Way Craft Settings Page Saves (Hopefully Fixes Saving Issues)
+- Updated For Rotated Items
+- Removed Some Images to Help Page Load Times
+- Fixed 0 Count Items Showing on Storage Sell Page
+- Fixed Items on Storage Sell Page Having a : In The Code
+1.15 - Slowed Down Bushel Buying Again to Eliminate 500/ISE Errors
+1.14.9 - Fix for 500/ISE Errors
+- Now Checks to Make Sure FaceBook Says The Neighbor Is a Neighbor
+1.14.8 - Fix for Missing Craft Goods
+1.14.7 - Updated Styling Provided by Blue
+1.14.6 - Cleaned Up Code
+- Removed Selling More than Available Popup
+- Adjusted for New Parser
+- Increased Running Speed

@@ -1,0 +1,10 @@
+fBGifts allows you to accept and return various gifts that are on your facebook gifts page.
+
+[ChangeLog]
+2.0 Fix for Returning Chinese Gifts
+1.9 Return Gifts from Farmville Chinese
+1.8 Support for Bot Cookie <font color="red">(2.0.0.0 Bot Required)</font>
+1.7 Fix for GiftBox Limits
+1.6 Fix for facebook Changes in Links
+1.4 Fixed Returning of Gifts
+- Added New Styling By Blue

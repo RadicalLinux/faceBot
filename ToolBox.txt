@@ -1,0 +1,21 @@
+ToolBox has various utilities to help you get more coins, breed foals, produce eggs, manage your animals, etc.
+
+NOTE: Delete your current Toolbox Folder before Installing.
+
+*ToolBox was written by Hypothalamus with updates by various authors including n0m, Nena, and Davdomlan*
+
+NOTE: Nursery Barn in FarmGold doesn't work properly
+
+[ChangeLog]
+2.14 UGH!!!  My Bug This Time
+2.13 Fix for AMF Calls for Storage and Flower Manager
+2.12 Another GiftBox Fix
+2.11 Fix Issue w/Deleting Flowers
+2.10 Fixed Issue w/Giftbox Counts in Flower Manager
+2.09 Added Support for Larger Pigpens
+- Fixed Flower Manager
+2.08 Added Support for Larger Chicken Coops
+- Fix for Mass Amounts Notices/Warnings Filling Up Logs
+2.07 Fixed Missing MG and Updated Tree Detections - Changes by Nena and Davdomlan
+2.06 Added Orchards and Turkey Roosts to Animal Manager - Changes by Nena
+- Removed FarmGold since it's replaced by fvTools
